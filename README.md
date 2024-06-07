@@ -33,4 +33,4 @@ D. Hong, L. Gao, J. Yao, B. Zhang, A. Plaza, J. Chanussot. Graph Convolutional N
 
 **3. Contact Information**
 
-Xuanwen Tao: txw_upc@g126.com<br> 
+Xuanwen Tao: txw_upc@126.com<br> 
