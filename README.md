@@ -1,13 +1,13 @@
 # An Abundance-Guided Attention Network for Hyperspectral Unmixing
-Xuanwen Tao, Mercedes E. Paoletti, Zhoayue Wu, Juan M. Haut, Peng Ren, Antonio Plaza
+Xuanwen Tao, Mercedes E. Paoletti, Zhaoyue Wu, Juan M. Haut, Peng Ren, Antonio Plaza
 
 **1. Abstract**
 
-This paper designs a new method called abundance-guided spectral and spatial network (A2SN) which not only skips the weights to extract endmember features directly from the network, but also estimates the abundance maps and reconstructs images directly. In particular, the proposed A2SN employs different kernels to capture spectral and spatial information. Thia paper also proposes an abundance-guided attention spectral and spatial attention network (A2SAN) for hyperspectral unmixing by integrating attention mechanisms into A2SN. As a result, A2SAN is a completely innovative unmixing method that employs attention and reconstruction directly for hyperspectral unmixing, rather than just as modules for information extraction. Most importantly, both A2SN and A2SAN use a weighted summation of the feature maps to reconstruct the image and increase the noise immunity of the network.
+This paper designs a new method called abundance-guided spectral and spatial network (A2SN) which not only skips the weights to extract endmember features directly from the network, but also estimates the abundance maps and reconstructs images directly. In particular, the proposed A2SN employs different kernels to capture spectral and spatial information. This paper also proposes an abundance-guided attention spectral and spatial attention network (A2SAN) for hyperspectral unmixing by integrating attention mechanisms into A2SN. As a result, A2SAN is a completely innovative unmixing method that employs attention and reconstruction directly for hyperspectral unmixing, rather than just as modules for information extraction. Most importantly, both A2SN and A2SAN use a weighted summation of the feature maps to reconstruct the image and increase the noise immunity of the network.
 
 **2. Overview**
 
-![3-Map of RCRD and RCRDW with non-global dictionary](https://github.com/xuanwentao/Images/blob/main/A2SAN.png)
+![2-A2SAN](https://github.com/xuanwentao/Images/blob/main/A2SAN.png)
 
 
 **3. Citation**
