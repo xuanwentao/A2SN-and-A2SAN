@@ -7,7 +7,7 @@ This paper designs a new method called abundance-guided spectral and spatial net
 
 **2. Overview**
 
-![2-A2SAN](https://github.com/xuanwentao/Images/blob/main/A2SAN.png)
+![2-A2SAN](https://github.com/xuanwentao/A2SN-and-A2SAN/blob/main/A2SAN.png)
 
 
 **3. Citation**
