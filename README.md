@@ -17,13 +17,21 @@ Please kindly cite the papers if this code is useful and helpful for your resear
 X. Tao, M. E. Paoletti, Z. Wu, J. M. Haut, P. Ren and A. Plaza, "An Abundance-Guided Attention Network for Hyperspectral Unmixing," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-14, 2024, Art no. 5505414, doi: 10.1109/TGRS.2024.3353259.
 
 @article{tao2024abundance,
+
   title={An Abundance-Guided Attention Network for Hyperspectral Unmixing},
+  
   author={Tao, Xuanwen and Paoletti, Mercedes E and Wu, Zhaoyue and Haut, Juan M and Ren, Peng and Plaza, Antonio},
+  
   journal={IEEE Transactions on Geoscience and Remote Sensing},
+  
   year={2024},
+  
   volume={62},
+  
   number={},
+  
   pages={1-14},
+  
   publisher={IEEE}
 }
 
